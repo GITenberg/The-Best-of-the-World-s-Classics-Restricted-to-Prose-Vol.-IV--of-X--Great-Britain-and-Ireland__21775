@@ -1,0 +1,71 @@
+_repo: The-Best-of-the-World-s-Classics-Restricted-to-Prose-Vol.-IV--of-X--Great-Britain-and-Ireland__21775
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Halsey, Francis W. (Francis Whiting)
+    birthdate: 1851
+    deathdate: 1919
+    gutenberg_agent_id: '3081'
+    url: http://www.gutenberg.org/2009/agents/3081
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Whiting_Halsey
+  - agent_name: Lodge, Henry Cabot
+    birthdate: 1850
+    deathdate: 1924
+    gutenberg_agent_id: '728'
+    url: http://www.gutenberg.org/2009/agents/728
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Cabot_Lodge
+description: ''
+gutenberg_issued: '2007-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Literature -- Collections'
+tableOfContents: "Of Companions and Flatterers. by Steele\r\nThe Story-Teller and\
+  \ His Art. by Steele\r\nSir Roger and the Widow. by Steele\r\nThe Coverley Family\
+  \ Portraits. by Steele\r\nOn Certain Symptoms of Greatness. by Steele\r\nHow to\
+  \ Be Happy tho Married. by Steele\r\nOf the Shortness of Human Life. by Bolingbroke\r\
+  \nRules for the Study of History. by Bolingbroke\r\nAn Ancient English Country Seat.\
+  \ by Pope\r\nHis Compliments to Lady Mary. by Pope\r\nHow to Make an Epic Poem.\
+  \ by Pope\r\nOn Happiness in the Matrimonial State. by Montagu\r\nInoculation for\
+  \ the Smallpox. by Montagu\r\nOf Good Manners, Dress and the World. by Chesterfield\r\
+  \nOf Attentions to Ladies. by Chesterfield\r\nTom the Hero Enters the Stage; Partridge\
+  \ Sees Garrick at the Play. by Fielding from \"Tom Jones\"\r\nMr. Adams in a Political\
+  \ Light. by Fielding from \"Joseph Andrews\"\r\nOn Publishing His \"Dictionary.\"\
+  \ by Johnson from the \"Dictionary\"\r\nPope and Dryden Compared. by Johnson from\
+  \ the \"Lives of the Poets\"\r\nLetter to Chesterfield on the Completion of the\
+  \ \"Dictionary.\" by Johnson from Boswell's \"Life\"\r\nOn the Advantages of Living\
+  \ in a Garret. by Johnson\r\nThe Character of Queen Elizabeth; The Defeat of the\
+  \ Armada. by Hume from the \"History of England\"\r\nThe First Principles of Government.\
+  \ by Hume\r\nThe Starling in Captivity; To Moulines with Maria. by Sterne from \"\
+  The Sentimental Journey\"\r\nThe Death of LeFevre; Passages from the Romance of\
+  \ My Uncle Toby and the Widow. by Sterne from \"Tristram Shandy\"\r\nWarwick Castle.\
+  \ by Gray\r\nTo His Friend Mason on the Death of Mason's Mother. by Gray\r\nOn His\
+  \ Own Writings. by Gray\r\nHis Friendship for Bonstetten. by Gray\r\nHogarth. by\
+  \ Walpole from the \"Anecdotes of Painting in England\" \r\nThe War in America.\
+  \ by Walpole\r\nThe Death of George II. by Walpole\r\nThe Chimney Swallow. by White\
+  \ from \"The Natural History of Selborne\"\r\nOf Ambition Misdirected. by Smith\
+  \ from the \"Theory of Moral Sentiments\"\r\nThe Advantages of a Division of Labor.\
+  \ by Smith from \"The Wealth of Nations\" \r\nProfessional Soldiers in Free Countries.\
+  \ by Blackstone from the \"Commentaries\"\r\nThe Ambitions of the Vicar's Family.\
+  \ by Goldsmith from \"The Vicar of Wakefield\"\r\nSagacity in Insects. by Goldsmith\
+  \ from \"The Bee\"\r\nA Chinaman's View of London. by Goldsmith from the \"Citizen\
+  \ of the World\"\r\nThe Principles of Good Taste. by Burke from \"The Sublime and\
+  \ Beautiful\"\r\nA Letter to a Noble Lord. by Burke\r\nOn the Death of His Son.\
+  \ by Burke\r\nMarie Antoinette. by Burke from the \"Reflections on the Revolution\
+  \ in France\"\r\nOf Keeping One's Self Employed. by Cowper\r\nOf Johnson's Treatment\
+  \ of Milton. by Cowper\r\nOn the Publication of His Books. by Cowper\r\nThe Romance\
+  \ of His Youth; The Inception and Completion of the \"Decline and Fall;\" The Fall\
+  \ of Zenobia; Alaric's Entry into Rome; The Death of Hosein; The Causes of the Destruction\
+  \ of the City of Rome. by Gibbon from \"The Decline and Fall of the Roman Empire\""
+title: The Best of the World's Classics, Restricted to Prose, Vol. IV (of X)—Great
+  Britain and Ireland II
+url: http://www.gutenberg.org/ebooks/21775
